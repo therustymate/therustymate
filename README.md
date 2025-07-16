@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        I am The Rusty (@therustymate).
+        I am The Rusty
       </h1>
     </summary>
   </ul>
