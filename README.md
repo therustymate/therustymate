@@ -10,21 +10,21 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.youtube.com/@therustymate" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/therustymate" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
- **<h3 align="left">Penetration Tester</h3>**
+ **<h3 align="left">Exploit Developer</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Red Team Tools**
-- 🌱 I'm currently learning: **Malware Analysis**
+- 💼 I'm currently working on: **Vulnerability Research**
+- 🌱 I'm currently learning: **Exploit Development**
 - 💬 Ask me about: **Cybersecurity**
-- 📂 Portfolio: **<a href="https://therustymate.github.io/" target="_blank">https://therustymate.github.io/</a>**
 
- **<h3 align="left">Skills</h3>**
+**<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=java" height="28" alt="Java" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bash" height="28" alt="Bash" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=cpp" height="28" alt="C++" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=cs" height="28" alt="CSharp" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=c" height="28" alt="C" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=rust" height="28" alt="Rust" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=php" height="28" alt="PHP" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=lua" height="28" alt="Lua" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sqlite" height="28" alt="SQLite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=firebase" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tensorflow" height="28" alt="TensorFlow" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=pytorch" height="28" alt="PyTorch" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=opencv" height="28" alt="OpenCV" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=visualstudio" height="28" alt="Visualstudio" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=pycharm" height="28" alt="PyCharm" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sublime" height="28" alt="Sublime Text" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=figma" height="28" alt="Figma" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=blender" height="28" alt="Blender" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=godot" height="28" alt="Godot" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=selenium" height="28" alt="Selenium" style="margin-right: 4px"></div>
+- Reverse Engineering
+- Exploit Development
+- Vulnerability Research
+- Web Exploitation
+- Red Teaming
 
  **<h3 align="left">GitHub Stats</h3>**
 
