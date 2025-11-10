@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="left">Malware Researcher</h3>**
+ **<h3 align="left">Exploit Developer</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
