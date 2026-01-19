@@ -14,8 +14,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Vulnerability Research**
-- 🌱 I'm currently learning: **Exploit Development**
+- 💼 I'm currently working on: **Malware Research**
+- 🌱 I'm currently learning: **AV/EDR Bypass**
 - 💬 Ask me about: **Cybersecurity**
 
 **<h3 align="left">Skills</h3>**
@@ -25,6 +25,7 @@
 - Vulnerability Research
 - Web Exploitation
 - Red Teaming
+- Malware Research
 
  **<h3 align="left">GitHub Stats</h3>**
 
