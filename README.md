@@ -5,7 +5,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Malware Research**
-- 🌱 I'm currently learning: **AV/EDR Bypass**
+- 🌱 I'm currently learning: **AV/EDR Defense Evasion**
 
 **<h3 align="left">Skills</h3>**
 
