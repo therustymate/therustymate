@@ -4,12 +4,13 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Malware Research**
-- 🌱 I'm currently learning: **AV/EDR Defense Evasion**
+- 💼 I'm currently working on: **Anti-Reverse Engineering**
+- 🌱 I'm currently learning: **AV/EDR Defense Evasion & Malware Research**
 
 **<h3 align="left">Skills</h3>**
 
 - Reverse Engineering
+- Anti Reverse Engineering
 - Exploit Development
 - Web Exploitation
 - Red Teaming
